@@ -1,0 +1,9 @@
+# Compilados
+*.tfstate
+*.tfstate.backup
+ 
+# Modulos
+.terraform/
+ 
+#Variables privadas
+/variables.tf
